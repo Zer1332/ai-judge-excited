@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-excited-01/Zer1332/ai-judge-excited/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/Zer1332/ai-judge-excited/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-A colossal stained-glass koi leaps over a mountain temple at dusk, its streaming water turning into a flock of glowing birds beneath a huge orange sun.
+A tiny child in a paper boat sails across a dark sea toward the glowing golden eye of a colossal sleeping stone titan rising from the water under the stars.
 
 ## Run it
 
